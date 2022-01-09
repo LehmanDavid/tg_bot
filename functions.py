@@ -19,7 +19,7 @@ def pashalki(update, context):
     time.sleep(1.0)
 
     if text == 'aziz':
-        context.bot.send_message(chat_id = chat_id, text = 'Не толстый')
+        context.bot.send_message(chat_id = chat_id, text = 'Loves femdom')
     if text == 'donik':
         context.bot.send_message(chat_id = chat_id, text = 'Машина')
     if text == 'yon':
